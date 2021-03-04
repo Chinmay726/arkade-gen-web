@@ -1,4 +1,27 @@
+/* @media(max-width:600px){
 
+  *{
+    float:none;
+  }
+  .logo {
+    float: none;
+    text-align: center;
+  }
+   */
+  
+  
+  /* .navigation ul li a {
+    padding: 5px;
+    border-bottom: #444 dotted 1px;
+  }
+  
+  /* Showcase */
+  
+  /* .showcase-content {
+    padding-top: 70px;
+    padding-bottom: 30px;
+  } */
+  
 /*
 fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap%27');
