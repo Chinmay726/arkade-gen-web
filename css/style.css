@@ -297,7 +297,7 @@ img {
   background-color:darkgray;
   padding:15px;
   box-sizing: border-box;
-  color:White;
+  color:black;
 }
 
 
@@ -312,6 +312,10 @@ color:greenyellow;
   color:greenyellow;
   font-size:35px;
 
+}
+
+.textcontent{
+  color:black;
 }
 
 
