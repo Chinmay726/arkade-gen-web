@@ -6,9 +6,8 @@
   margin:0;
   box-sizing: border-box;
 }
-html,body{
-line-height: 1.7em;
-background-color: black;
+body{
+  background-color: black;
 }
 #container{
   font-family: "Lucida Console", "Courier New", monospace;
@@ -70,9 +69,9 @@ background-color: black;
   padding-right:15px;
   }
  
-img {
+.image img {
     width: 100px;
-    border-radius: 50px;
+    /* border-radius: 50px; */
     float: left;
     margin-right: 10px
 }
@@ -314,9 +313,6 @@ color:greenyellow;
 
 }
 
-.textcontent{
+ .textcontent{
   color:black;
 }
-
-
-
