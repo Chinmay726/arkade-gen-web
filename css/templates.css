@@ -2,15 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
-<<<<<<< Updated upstream
-
-=======
-@media only screen and (max-width: 600px) {
-  .usage{
-    display:none;
-  }
-}
->>>>>>> Stashed changes
 *{
   padding:0;
   margin:0;
@@ -80,15 +71,11 @@ body , head{
   padding-right:15px;
   }
   .headd{
-<<<<<<< Updated upstream
     /* color:white; */
-=======
->>>>>>> Stashed changes
     color:lightblue;
     font-size:40px;
     margin-top:100px;
   } 
-<<<<<<< Updated upstream
   .templatezone{
     box-sizing: border-box;
     margin-top:30px;
@@ -136,17 +123,6 @@ body , head{
  
  
   .simple h4 , .simple-headings{
-=======
-  
-  .box img{
-    display:block;
-    width:100%;
-    margin-bottom:10px;
-    border-radius:5px;
-  } 
- 
-.simple h4 , .simple-headings{
->>>>>>> Stashed changes
     font-family: 'Dancing Script', cursive;
     font-size:20px;
   }
@@ -155,11 +131,7 @@ body , head{
   background-color:lightgrey;
   padding:10px;
   border-radius:5px;
-<<<<<<< Updated upstream
 }
-=======
-} 
->>>>>>> Stashed changes
 .vast-heading{
   font-family: 'ZCOOL KuaiLe', cursive;
 }
@@ -170,45 +142,3 @@ img{
 #gween{
   color:yellowgreen!important;
 }
-<<<<<<< Updated upstream
-=======
-.templates{
-  display:flex;
-  flex-direction:row;
-  width: 100%;
-}
-.box{
-  width:29%;
-  border-radius:5px;
-  height:595px;
-  background-color:white;
-  margin:30px;
-  padding:10px;
-}
-@font-face {
-  font-family: anime;
-  src: url('../fonts/Hangyaku-JR2AM.ttf');
-}
-@font-face {
-  font-family:esports;
-  src: url('../fonts/Debrosee-ALPnL.ttf')
-}
-.anime-heading{
-  font-family:anime;
-  font-size:18px;
-}
-.esports-heading{
-  font-family:esports;
-  font-size:16px;
-}
-.templates2{
-  display:flex;
-  flex-direction:row;
-  width: 100%;
-}
-.usage{
-  font-weight: normal;
-}
-
-
->>>>>>> Stashed changes

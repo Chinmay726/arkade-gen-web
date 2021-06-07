@@ -8,13 +8,6 @@
 }
 body{
   background-color: black;
-<<<<<<< Updated upstream
-=======
-}
-h1 , h2 , h3 , h4 , h5 , h6{
-  padding: 0;
-  margin:0;
->>>>>>> Stashed changes
 }
 #container{
   font-family: "Lucida Console", "Courier New", monospace;
@@ -324,32 +317,3 @@ color:greenyellow;
  .textcontent{
   color:black;
 }
-<<<<<<< Updated upstream
-=======
-#info{
-  width:100%;
-  color:white;
-  /* background-color:white; */
-  margin-top:500px;
-  flex-direction: row;
-  height:2000px;
-}
-.img1{
-
-  margin-top:0;
-  border-radius:0px;
-  width:50%;
-  height:300px;
-  background:url('../imgs/help.png');
-  float:right;
-}
-
-#helpcmd{
-  
-  float:left;
-  width:50%;
-  margin-top:5px;
-  margin:auto;
-  /* background-color:grey; */
-}
->>>>>>> Stashed changes
