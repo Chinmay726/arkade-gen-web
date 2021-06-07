@@ -6,9 +6,12 @@
   margin:0;
   box-sizing: border-box;
 }
-html,body{
-line-height: 1.7em;
-background-color: black;
+body{
+  background-color: black;
+}
+h1 , h2 , h3 , h4 , h5 , h6{
+  padding: 0;
+  margin:0;
 }
 #container{
   font-family: "Lucida Console", "Courier New", monospace;
@@ -70,13 +73,15 @@ background-color: black;
   padding-right:15px;
   }
  
-img {
+.image img {
     width: 100px;
-    border-radius: 50px;
+    /* border-radius: 50px; */
     float: left;
     margin-right: 10px
 }
-
+img{
+  border-radius:50%;
+}
 .username {
     font-weight: bold;
     color: white;
@@ -164,8 +169,7 @@ img {
 }
 
 .button:hover{
-  box-shadow: 0 5px 50px 0 #00FF00 inset, 0 5px 50px 0 #00FF00,
-  0 5px 50px 0 #00FF00 inset, 0 5px 50px 0 #15f458;
+  background-color:green;
 }
 
 .button2{
@@ -314,9 +318,32 @@ color:greenyellow;
 
 }
 
-.textcontent{
+ .textcontent{
   color:black;
 }
+#info{
+  width:100%;
+  color:white;
+  /* background-color:white; */
+  margin-top:500px;
+  flex-direction: row;
+  height:2000px;
+}
+.img1{
 
+  margin-top:0;
+  border-radius:0px;
+  width:50%;
+  height:300px;
+  background:url('../imgs/help.png');
+  float:right;
+}
 
-
+#helpcmd{
+  
+  float:left;
+  width:50%;
+  margin-top:5px;
+  margin:auto;
+  /* background-color:grey; */
+}
