@@ -204,6 +204,9 @@ img{
   display:none;
 
 }
+a:hover{
+  border-bottom: 0;
+}
 .title{
   height:300px;
 }
