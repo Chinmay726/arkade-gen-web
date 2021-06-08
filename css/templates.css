@@ -164,7 +164,7 @@ img{
 .usage{
   font-weight: normal;
 }
-@media only screen and (max-width: 815px) {
+@media only screen and (max-width: 800px) {
   #navigation ul li{
     display:block;
     text-align: center;
